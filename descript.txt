@@ -1,37 +1,65 @@
 charset,UTF-8
 craftman,HinoTsumi
 craftmanw,日野つみ
+craftmanurl,https://apxxxxxxe.github.io/ukagaka/
 id,thumbelina
 name,thumbelina
 type,shell
+homeurl,https://raw.githubusercontent.com/apxxxxxxe/thumbelina-shell/main/
 
 seriko.alignmenttodesktop,free
 seriko.use_self_alpha,1
 
 sakura.bindoption0.group,椅子
 sakura.bindgroup10.default,1
-sakura.bindgroup10.name,椅子,ドレス
+sakura.bindgroup10.name,椅子,黒茶
+sakura.bindgroup12.name,椅子,茶
+sakura.bindgroup11.name,椅子,白
 
 sakura.bindoption0.group,前髪,mustselect
-sakura.bindgroup900.default,1
+sakura.bindgroup902.default,1
 sakura.bindgroup900.name,前髪,いつもの
+sakura.bindgroup900.addid,600
+sakura.bindgroup901.name,前髪,ななめ
+sakura.bindgroup901.addid,601
+sakura.bindgroup902.name,前髪,ぱっつん
+sakura.bindgroup902.addid,602
 
 sakura.bindoption0.group,後髪,mustselect
-sakura.bindgroup30.default,1
+sakura.bindgroup32.default,1
 sakura.bindgroup30.name,後髪,いつもの
+sakura.bindgroup31.name,後髪,ロング
+sakura.bindgroup32.name,後髪,ふわふわ
 
-sakura.bindoption0.group,私服
-sakura.bindgroup500.default,1
-sakura.bindgroup500.name,私服,ドレス
+sakura.bindoption0.group,髪+
+sakura.bindgroup801.default,1
+sakura.bindgroup800.name,髪+,ふさふさ
+sakura.bindgroup801.name,髪+,ウルフ
+
+sakura.bindoption0.group,首元
+sakura.bindgroup550.default,1
+sakura.bindgroup551.name,首元,いつもの
+sakura.bindgroup550.name,首元,A
+sakura.bindgroup552.name,首元,B
+sakura.bindgroup553.name,首元,C
+sakura.bindgroup554.name,首元,D
+
+sakura.bindoption0.group,私服,mustselect
+sakura.bindgroup401.default,1
+sakura.bindgroup400.name,私服,ドレス
+sakura.bindgroup400.addid,501
+sakura.bindgroup401.name,私服,夏服
+sakura.bindgroup401.addid,502
 
 sakura.bindoption0.group,靴下
 sakura.bindgroup70.default,1
-sakura.bindgroup70.name,靴下,白
+sakura.bindgroup70.name,靴下,黒
 
 sakura.bindoption0.group,靴
 sakura.bindgroup200.default,1
 sakura.bindgroup200.name,靴,黒
 
-sakura.bindgroup310.name,ex,汗
+sakura.bindoption0.group,ex
+sakura.bindgroup899.name,ex,汗
 
 sakura.menu,auto
