@@ -16,4 +16,14 @@ jobs:
       - name: updates build
         uses: Taromati2/ukagaka-mirror-md5-CI-build@v1
         with:
+          no-push: true
           build-mode: other
+      - name: git push
+        # commit and push all changes at once to avoid error
+        run: |
+          git config --local user.email "calcium629@gmail.com"
+          git config --local user.name "apxxxxxxe"
+          git add .
+          git commit -m "update md5" -a
+          git pull
+          git push origin $(git symbolic-ref --short HEAD)
