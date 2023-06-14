@@ -320,6 +320,8 @@ animation32.option,background
 //靴下
 animation70.interval,bind
 animation70.pattern0,bind,8100,0,0,0
+animation71.interval,bind
+animation71.pattern0,bind,8101,0,0,0
 
 //靴
 animation200.interval,bind
@@ -347,6 +349,8 @@ animation553.interval,bind
 animation553.pattern0,bind,8303,0,0,0
 animation554.interval,bind
 animation554.pattern0,bind,8304,0,0,0
+animation555.interval,bind
+animation555.pattern0,bind,8305,0,0,0
 
 //前髪影
 animation600.interval,bind

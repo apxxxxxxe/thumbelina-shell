@@ -36,13 +36,14 @@ sakura.bindgroup801.default,1
 sakura.bindgroup800.name,髪+,ふさふさ
 sakura.bindgroup801.name,髪+,ウルフ
 
-sakura.bindoption0.group,首元
+sakura.bindoption0.group,首元,multiple
 sakura.bindgroup550.default,1
 sakura.bindgroup551.name,首元,いつもの
 sakura.bindgroup550.name,首元,A
 sakura.bindgroup552.name,首元,B
 sakura.bindgroup553.name,首元,C
 sakura.bindgroup554.name,首元,D
+sakura.bindgroup555.name,首元,E
 
 sakura.bindoption0.group,私服,mustselect
 sakura.bindgroup401.default,1
@@ -53,7 +54,8 @@ sakura.bindgroup401.addid,502
 
 sakura.bindoption0.group,靴下
 sakura.bindgroup70.default,1
-sakura.bindgroup70.name,靴下,黒
+sakura.bindgroup70.name,靴下,タイツ黒
+sakura.bindgroup71.name,靴下,ハイソックス黒
 
 sakura.bindoption0.group,靴
 sakura.bindgroup200.default,1
