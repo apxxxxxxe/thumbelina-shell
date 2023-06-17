@@ -316,6 +316,12 @@ animation31.option,background
 animation32.interval,bind
 animation32.pattern0,bind,6502,0,0,0
 animation32.option,background
+animation33.interval,bind
+animation33.pattern0,bind,6503,0,0,0
+animation33.option,background
+animation34.interval,bind
+animation34.pattern0,bind,6504,0,0,0
+animation34.option,background
 
 //靴下
 animation70.interval,bind
@@ -359,12 +365,16 @@ animation601.interval,bind
 animation601.pattern0,bind,7001,0,0,0
 animation602.interval,bind
 animation602.pattern0,bind,7002,0,0,0
+animation603.interval,bind
+animation603.pattern0,bind,7003,0,0,0
 
 //髪+
 animation800.interval,bind
 animation800.pattern0,bind,6600,0,0,0
 animation801.interval,bind
 animation801.pattern0,bind,6601,0,0,0
+animation802.interval,bind
+animation802.pattern0,bind,6602,0,0,0
 
 //前髪
 animation900.interval,bind
@@ -373,6 +383,8 @@ animation901.interval,bind
 animation901.pattern0,bind,6001,0,0,0
 animation902.interval,bind
 animation902.pattern0,bind,6002,0,0,0
+animation903.interval,bind
+animation903.pattern0,bind,6003,0,0,0
 
 //汗
 animation899.interval,bind
