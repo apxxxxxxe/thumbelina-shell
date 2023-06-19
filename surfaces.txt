@@ -6,6 +6,8 @@
 descript
 {
 version,1
+collision-sort,descend
+animation-sort,descend
 }
 
 sakura.cursor
@@ -395,30 +397,32 @@ animation899.pattern0,bind,1400,0,0,0
 //＃＃当たり判定＃＃//--------------------------------------------------------------------------
 surface0-9,11-144,200-343
 {
-	collision0,104,10,194,55,head
-	collision1,134,82,152,92,mouth
-	collision2,153,78,168,90,face
-	collision3,122,80,136,92,face
-	collision4,96,191,129,212,hand
-	collision6,130,103,173,117,muna
-	collision7,128,113,173,137,bust
-	collision8,169,59,183,80,ear
-	collision10,146,92,167,103,neck
-	collision11,67,203,179,316,reg
-	collision13,168,99,191,118,shoulder
-	collision14,117,99,134,117,shoulder
-	collision15,123,42,153,56,deko
-	collision16,128,164,162,196,belly
-	collision17,132,316,170,367,foot
-	collision18,38,328,89,367,foot
-	}
+collision0,104,10,194,55,head
+collision1,153,78,168,90,face
+collision2,122,80,136,92,face
+collision3,134,82,152,92,mouth
+collision4,168,99,191,118,shoulder
+collision5,117,99,134,117,shoulder
+collision6,128,113,173,147,bust
+collision7,130,103,173,122,muna
+collision8,169,59,183,80,ear
+collision9,146,92,167,103,neck
+collision10,67,213,100,316,reg
+collision11,100,203,179,240,reg
+collision12,108,240,157,316,reg
+collision13,96,191,129,212,hand
+collision14,128,42,158,59,deko
+collision15,128,164,162,196,belly
+collision16,132,316,170,367,foot
+collision17,38,328,89,367,foot
+}
 
 surface9990-9999
 {
-	collision0,104,10,194,55,head
-	collision1,134,82,152,92,mouth
-	collision2,153,78,168,90,face
-	collision3,122,80,136,92,face
-	collision4,96,191,129,212,hand
+collision0,104,10,194,55,head
+collision1,153,78,168,90,face
+collision2,122,80,136,92,face
+collision3,134,82,152,92,mouth
+collision13,96,191,129,212,hand
 }
 
