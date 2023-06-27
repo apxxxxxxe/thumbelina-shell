@@ -379,8 +379,6 @@ animation802.interval,bind
 animation802.pattern0,bind,6602,0,0,0
 animation803.interval,bind
 animation803.pattern0,bind,6603,0,0,0
-animation804.interval,bind
-animation804.pattern0,bind,6604,0,0,0
 
 //前髪
 animation900.interval,bind

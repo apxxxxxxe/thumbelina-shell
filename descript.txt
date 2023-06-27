@@ -41,7 +41,6 @@ sakura.bindoption0.group,髪+,multiple
 sakura.bindgroup801.default,1
 sakura.bindgroup802.default,1
 sakura.bindgroup803.name,髪+,ストレート
-sakura.bindgroup804.name,髪+,もさ
 sakura.bindgroup800.name,髪+,ふさふさ
 sakura.bindgroup801.name,髪+,ウルフ
 sakura.bindgroup802.name,髪+,内巻き
