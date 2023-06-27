@@ -26,6 +26,8 @@ sakura.bindgroup902.name,前髪,ぱっつん
 sakura.bindgroup902.addid,602
 sakura.bindgroup903.name,前髪,アップバング
 sakura.bindgroup903.addid,603
+sakura.bindgroup904.name,前髪,ナチュラル
+sakura.bindgroup904.addid,604
 
 sakura.bindoption0.group,後髪,mustselect
 sakura.bindgroup32.default,1
@@ -38,6 +40,8 @@ sakura.bindgroup34.name,後髪,シニヨン
 sakura.bindoption0.group,髪+,multiple
 sakura.bindgroup801.default,1
 sakura.bindgroup802.default,1
+sakura.bindgroup803.name,髪+,ストレート
+sakura.bindgroup804.name,髪+,もさ
 sakura.bindgroup800.name,髪+,ふさふさ
 sakura.bindgroup801.name,髪+,ウルフ
 sakura.bindgroup802.name,髪+,内巻き
