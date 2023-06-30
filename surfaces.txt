@@ -369,6 +369,8 @@ animation602.interval,bind
 animation602.pattern0,bind,7002,0,0,0
 animation603.interval,bind
 animation603.pattern0,bind,7003,0,0,0
+animation604.interval,bind
+animation604.pattern0,bind,7004,0,0,0
 
 //髪+
 animation800.interval,bind
