@@ -362,6 +362,10 @@ animation554.pattern0,bind,8304,0,0,0
 animation555.interval,bind
 animation555.pattern0,bind,8305,0,0,0
 
+//下着
+animation300.interval,bind
+animation300.pattern0,bind,8400,0,0,0
+
 //前髪影
 animation600.interval,bind
 animation600.pattern0,bind,7000,0,0,0

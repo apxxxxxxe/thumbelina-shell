@@ -61,6 +61,10 @@ sakura.bindgroup400.addid,501
 sakura.bindgroup401.name,私服,夏服
 sakura.bindgroup401.addid,502
 
+sakura.bindoption0.group,下着,mustselect
+sakura.bindgroup300.default,1
+sakura.bindgroup300.name,下着,A
+
 sakura.bindoption0.group,靴下
 sakura.bindgroup70.default,1
 sakura.bindgroup70.name,靴下,タイツ黒
