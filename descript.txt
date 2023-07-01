@@ -64,7 +64,8 @@ sakura.bindgroup401.addid,502
 sakura.bindoption0.group,靴下
 sakura.bindgroup70.default,1
 sakura.bindgroup70.name,靴下,タイツ黒
-sakura.bindgroup71.name,靴下,ハイソックス黒
+sakura.bindgroup71.name,靴下,ニーソックス黒
+sakura.bindgroup72.name,靴下,ハイソックス黒
 
 sakura.bindoption0.group,靴
 sakura.bindgroup200.default,1

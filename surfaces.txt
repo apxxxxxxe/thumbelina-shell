@@ -330,6 +330,8 @@ animation70.interval,bind
 animation70.pattern0,bind,8100,0,0,0
 animation71.interval,bind
 animation71.pattern0,bind,8101,0,0,0
+animation72.interval,bind
+animation72.pattern0,bind,8102,0,0,0
 
 //靴
 animation200.interval,bind
