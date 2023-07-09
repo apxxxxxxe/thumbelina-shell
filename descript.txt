@@ -32,7 +32,8 @@ sakura.bindgroup904.addid,604
 sakura.bindoption0.group,後髪,mustselect
 sakura.bindgroup32.default,1
 sakura.bindgroup30.name,後髪,いつもの
-sakura.bindgroup31.name,後髪,ロング
+sakura.bindgroup31.name,後髪,ストレート
+sakura.bindgroup35.name,後髪,ウェーブ
 sakura.bindgroup32.name,後髪,ふわふわ
 sakura.bindgroup33.name,後髪,セミロング
 sakura.bindgroup34.name,後髪,シニヨン

@@ -324,6 +324,9 @@ animation33.option,background
 animation34.interval,bind
 animation34.pattern0,bind,6504,0,0,0
 animation34.option,background
+animation35.interval,bind
+animation35.pattern0,bind,6505,0,0,0
+animation35.option,background
 
 //靴下
 animation70.interval,bind
