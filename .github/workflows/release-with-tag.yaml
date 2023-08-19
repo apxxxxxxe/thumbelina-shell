@@ -1,7 +1,6 @@
 name: release-with-tag
 
 on:
-  workflow_dispatch:
   push:
     tags:
       - 'v*'
