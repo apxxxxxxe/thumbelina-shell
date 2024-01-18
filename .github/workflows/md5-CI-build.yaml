@@ -3,7 +3,11 @@ name: md5-CI-build
 on:
   push:
   workflow_dispatch:
-  
+
+concurrency:
+    group: ${{ github.workflow }}-${{ github.ref }}
+    cancel-in-progress: true
+
 permissions:
   contents: write
 
