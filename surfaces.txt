@@ -402,6 +402,8 @@ animation903.interval,bind
 animation903.pattern0,bind,6003,0,0,0
 animation904.interval,bind
 animation904.pattern0,bind,6004,0,0,0
+animation905.interval,bind
+animation905.pattern0,bind,6005,0,0,0
 
 //汗
 animation899.interval,bind
