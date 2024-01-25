@@ -305,6 +305,15 @@ animation11.option,background
 animation12.interval,bind
 animation12.pattern0,bind,8902,0,0,0
 animation12.option,background
+animation13.interval,bind
+animation13.pattern0,bind,8903,0,-5,0
+animation13.option,background
+animation14.interval,bind
+animation14.pattern0,bind,8904,0,-5,0
+animation14.option,background
+animation15.interval,bind
+animation15.pattern0,bind,8905,0,-5,0
+animation15.option,background
 
 //後ろ髪
 animation30.interval,bind
