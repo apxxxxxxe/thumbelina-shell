@@ -10,7 +10,7 @@ seriko.alignmenttodesktop,free
 seriko.use_self_alpha,1
 
 sakura.bindoption0.group,椅子
-sakura.bindgroup10.default,1
+sakura.bindgroup13.default,1
 sakura.bindgroup10.name,椅子,チェア黒茶
 sakura.bindgroup12.name,椅子,チェア茶
 sakura.bindgroup11.name,椅子,チェア白
@@ -52,7 +52,8 @@ sakura.bindgroup801.name,髪+,内巻き
 sakura.bindgroup800.name,髪+,ウルフ
 
 sakura.bindoption0.group,首元,multiple
-sakura.bindgroup550.default,1
+sakura.bindgroup554.default,1
+sakura.bindgroup555.default,1
 sakura.bindgroup551.name,首元,いつもの
 sakura.bindgroup550.name,首元,A
 sakura.bindgroup552.name,首元,B
@@ -62,7 +63,7 @@ sakura.bindgroup555.name,首元,E
 
 sakura.bindoption0.group,私服,mustselect
 sakura.bindoption0.group,私服
-sakura.bindgroup401.default,1
+sakura.bindgroup400.default,1
 sakura.bindgroup400.name,私服,ドレス
 sakura.bindgroup400.addid,501
 sakura.bindgroup401.name,私服,夏服
