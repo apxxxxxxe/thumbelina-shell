@@ -1,6 +1,6 @@
 ## 追加シェル「thumbelina」
 
-![image](https://github.com/apxxxxxxe/thumbelina-shell/assets/39634779/2989bcc7-2fc4-47a6-b373-fd8f89fd669f)
+![254520888-2989bcc7-2fc4-47a6-b373-fd8f89fd669f](https://github.com/apxxxxxxe/thumbelina-shell/assets/39634779/fe789c2e-bc5a-44f7-bc85-cfea980c9836)
 
 ※画像に使用したバルーンの配布先はこちら：[stilleSpiegel](http://stillespiegel.suppa.jp/lady.html)
 
