@@ -371,6 +371,8 @@ animation554.interval,bind
 animation554.pattern0,bind,8304,0,0,0
 animation555.interval,bind
 animation555.pattern0,bind,8305,0,0,0
+animation556.interval,bind
+animation556.pattern0,bind,8306,0,0,0
 
 //下着
 animation300.interval,bind

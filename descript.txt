@@ -58,8 +58,9 @@ sakura.bindgroup551.name,首元,いつもの
 sakura.bindgroup550.name,首元,A
 sakura.bindgroup552.name,首元,B
 sakura.bindgroup553.name,首元,C
-sakura.bindgroup554.name,首元,D
-sakura.bindgroup555.name,首元,E
+sakura.bindgroup556.name,首元,D
+sakura.bindgroup554.name,首元,E
+sakura.bindgroup555.name,首元,F
 
 sakura.bindoption0.group,私服,mustselect
 sakura.bindoption0.group,私服
@@ -114,11 +115,12 @@ sakura.menuitemex24,首元,551
 sakura.menuitemex25,首元,550
 sakura.menuitemex26,首元,552
 sakura.menuitemex27,首元,553
-sakura.menuitemex28,首元,554
-sakura.menuitemex29,首元,555
-sakura.menuitemex30,私服,400
-sakura.menuitemex31,私服,401
-sakura.menuitemex32,靴下,70
-sakura.menuitemex33,靴下,71
-sakura.menuitemex34,靴下,72
-sakura.menuitemex35,靴,200
+sakura.menuitemex28,首元,556
+sakura.menuitemex29,首元,554
+sakura.menuitemex30,首元,555
+sakura.menuitemex31,私服,400
+sakura.menuitemex32,私服,401
+sakura.menuitemex33,靴下,70
+sakura.menuitemex34,靴下,71
+sakura.menuitemex35,靴下,72
+sakura.menuitemex36,靴,200
