@@ -31,7 +31,6 @@ sakura.bindgroup903.addid,603
 sakura.bindgroup904.name,前髪,ナチュラル
 sakura.bindgroup904.addid,604
 sakura.bindgroup905.name,前髪,切り時
-sakura.bindgroup905.addid,605
 
 sakura.bindoption0.group,後髪,mustselect
 sakura.bindgroup32.default,1
