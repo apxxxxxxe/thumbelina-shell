@@ -61,7 +61,7 @@ sakura.bindgroup556.name,首元,D
 sakura.bindgroup554.name,首元,E
 sakura.bindgroup555.name,首元,F
 
-sakura.bindoption0.group,私服,mustselect
+sakura.bindoption0.group,私服
 sakura.bindoption0.group,私服
 sakura.bindgroup400.default,1
 sakura.bindgroup400.name,私服,ドレス
@@ -69,7 +69,7 @@ sakura.bindgroup400.addid,501
 sakura.bindgroup401.name,私服,夏服
 sakura.bindgroup401.addid,502
 
-sakura.bindoption0.group,下着,mustselect
+sakura.bindoption0.group,下着
 sakura.bindoption0.group,下着
 sakura.bindgroup300.default,1
 sakura.bindgroup300.name,下着,A
@@ -83,6 +83,7 @@ sakura.bindgroup72.name,靴下,ハイソックス黒
 sakura.bindoption0.group,靴
 sakura.bindgroup200.default,1
 sakura.bindgroup200.name,靴,黒
+sakura.bindgroup201.name,靴,クロスアンクル黒
 
 sakura.bindoption0.group,ex
 sakura.bindgroup899.name,ex,汗
@@ -123,3 +124,4 @@ sakura.menuitemex33,靴下,70
 sakura.menuitemex34,靴下,71
 sakura.menuitemex35,靴下,72
 sakura.menuitemex36,靴,200
+sakura.menuitemex37,靴,201
