@@ -348,6 +348,8 @@ animation200.interval,bind
 animation200.pattern0,bind,8200,0,0,0
 animation201.interval,bind
 animation201.pattern0,bind,8201,0,0,0
+animation202.interval,bind
+animation202.pattern0,bind,8202,0,0,0
 
 //服
 animation400.interval,bind

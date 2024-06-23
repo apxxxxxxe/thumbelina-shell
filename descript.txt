@@ -84,6 +84,7 @@ sakura.bindoption0.group,靴
 sakura.bindgroup200.default,1
 sakura.bindgroup200.name,靴,黒
 sakura.bindgroup201.name,靴,クロスアンクル黒
+sakura.bindgroup202.name,靴,パンプス黒
 
 sakura.bindoption0.group,ex
 sakura.bindgroup899.name,ex,汗
@@ -125,3 +126,4 @@ sakura.menuitemex34,靴下,71
 sakura.menuitemex35,靴下,72
 sakura.menuitemex36,靴,200
 sakura.menuitemex37,靴,201
+sakura.menuitemex38,靴,202
